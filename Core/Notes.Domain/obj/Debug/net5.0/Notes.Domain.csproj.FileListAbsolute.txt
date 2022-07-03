@@ -1,0 +1,10 @@
+C:\Users\musli\dev\c#\Notes.Backend\Core\obj\Debug\net5.0\Notes.Domain.csproj.AssemblyReference.cache
+C:\Users\musli\dev\c#\Notes.Backend\Core\obj\Debug\net5.0\Notes.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\musli\dev\c#\Notes.Backend\Core\obj\Debug\net5.0\Notes.Domain.AssemblyInfoInputs.cache
+C:\Users\musli\dev\c#\Notes.Backend\Core\obj\Debug\net5.0\Notes.Domain.AssemblyInfo.cs
+C:\Users\musli\dev\c#\Notes.Backend\Core\obj\Debug\net5.0\Notes.Domain.csproj.CoreCompileInputs.cache
+C:\Users\musli\dev\c#\Notes.Backend\Core\Notes.Domain\obj\Debug\net5.0\Notes.Domain.csproj.AssemblyReference.cache
+C:\Users\musli\dev\c#\Notes.Backend\Core\Notes.Domain\obj\Debug\net5.0\Notes.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\musli\dev\c#\Notes.Backend\Core\Notes.Domain\obj\Debug\net5.0\Notes.Domain.AssemblyInfoInputs.cache
+C:\Users\musli\dev\c#\Notes.Backend\Core\Notes.Domain\obj\Debug\net5.0\Notes.Domain.AssemblyInfo.cs
+C:\Users\musli\dev\c#\Notes.Backend\Core\Notes.Domain\obj\Debug\net5.0\Notes.Domain.csproj.CoreCompileInputs.cache
